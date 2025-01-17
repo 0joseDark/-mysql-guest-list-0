@@ -1,15 +1,6 @@
 #  mysql-guest-list-0
-  lista de convidados com mysql
- -
+  **lista de convidados com mysql**
  - Aplicação de gestão de convidados com interface gráfica, utilizando MySQL para armazenar e gerir os dados.
-
----
-
-
-```
-
----
-
 ### Explicações:
 1. **Banco de Dados MySQL**:
    - O script cria uma base de dados chamada `convidados_db` e uma tabela `convidados`.
