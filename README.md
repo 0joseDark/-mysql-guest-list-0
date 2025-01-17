@@ -25,7 +25,6 @@ Aqui está um guia detalhado para configurar o ambiente no Windows 10 e executar
      ```
    - Insira a senha configurada.
 =======
-#  mysql-guest-list-0
   **lista de convidados com mysql**
  - Aplicação de gestão de convidados com interface gráfica, utilizando MySQL para armazenar e gerir os dados.
 ### Explicações:
