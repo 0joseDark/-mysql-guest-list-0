@@ -32,7 +32,6 @@ Aqui está um guia detalhado para configurar o ambiente no Windows 10 e executar
 1. **Banco de Dados MySQL**:
    - O script cria uma base de dados chamada `convidados_db` e uma tabela `convidados`.
    - Armazena os campos: `nome`, `palavra_passe`, `email`, e `telefone`.
->>>>>>> bbf2e3c7b9ffb93a267de440d7399800f2ebb0d0
 
 ---
 
