@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Guia para Configurar o Ambiente e Executar o Script
 
 Aqui está um guia detalhado para configurar o ambiente no Windows 10 e executar o script de gestão de convidados:
@@ -24,6 +25,15 @@ Aqui está um guia detalhado para configurar o ambiente no Windows 10 e executar
      mysql -u root -p
      ```
    - Insira a senha configurada.
+=======
+#  mysql-guest-list-0
+  **lista de convidados com mysql**
+ - Aplicação de gestão de convidados com interface gráfica, utilizando MySQL para armazenar e gerir os dados.
+### Explicações:
+1. **Banco de Dados MySQL**:
+   - O script cria uma base de dados chamada `convidados_db` e uma tabela `convidados`.
+   - Armazena os campos: `nome`, `palavra_passe`, `email`, e `telefone`.
+>>>>>>> bbf2e3c7b9ffb93a267de440d7399800f2ebb0d0
 
 ---
 
