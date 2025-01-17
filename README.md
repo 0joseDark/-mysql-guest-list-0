@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Guia para Configurar o Ambiente e Executar o Script
 
 Aqui está um guia detalhado para configurar o ambiente no Windows 10 e executar o script de gestão de convidados:
