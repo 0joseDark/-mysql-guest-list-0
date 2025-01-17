@@ -104,18 +104,3 @@ Aqui está um guia detalhado para configurar o ambiente no Windows 10 e executar
        ```
    - **Credenciais Inválidas**:
      - Confirme que o usuário, senha e host no script correspondem à configuração do MySQL.
-
----
-
-### Extras
-- **Alterar o Título da Janela**:
-  - Modifique o texto da linha:
-    ```python
-    janela.title("Lista de Convidados")
-    ```
-
-- **Usar Outros Campos no MySQL**:
-  - Para adicionar novos campos, atualize a tabela no MySQL e o script. Por exemplo, para adicionar a data de nascimento:
-    ```sql
-    ALTER TABLE convidados ADD data_nascimento DATE;
-    ```
