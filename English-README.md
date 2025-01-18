@@ -1,7 +1,3 @@
-Here is the translated version of the file into English:
-
----
-
 ### Guide to Setting Up the Environment and Running the Script
 
 Here is a detailed guide to set up the environment on Windows 10 and run the guest management script:
